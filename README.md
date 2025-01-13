@@ -9,7 +9,7 @@ python, cv2、mediapipe、numpy などのインストールが必要です。
 実行方法
 python face_mesh.py
 
-![サンプル画像1](../../OpenCVPJ/samples/annotated_female5-eyeshadow-cyan.jpg)
-![サンプル画像2](../../OpenCVPJ/samples/annotated_female5-eyeshadow-gold.jpg)
-![サンプル画像3](../../OpenCVPJ/samples/annotated_female5-eyeshadow-purple.jpg)
-![サンプル画像4](../../OpenCVPJ/samples/annotated_female5-sanglasses.jpg)
+![サンプル画像1](./samples/annotated_female5-eyeshadow-cyan.jpg)
+![サンプル画像2](./samples/annotated_female5-eyeshadow-gold.jpg)
+![サンプル画像3](./samples/annotated_female5-eyeshadow-purple.jpg)
+![サンプル画像4](./samples/annotated_female5-sanglasses.jpg)
